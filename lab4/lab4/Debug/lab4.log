@@ -1,0 +1,4 @@
+﻿  lab4.cpp
+C:\Users\sergu\OneDrive\БГУИР\C++ алг\2s\lab4\lab4\lab4.cpp(102,6): warning C4101: i: неиспользованная локальная переменная
+C:\Users\sergu\OneDrive\БГУИР\C++ алг\2s\lab4\lab4\lab4.cpp(102,13): warning C4101: n: неиспользованная локальная переменная
+  lab4.vcxproj -> C:\Users\sergu\OneDrive\БГУИР\C++ алг\2s\lab4\Debug\lab4.exe
